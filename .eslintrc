@@ -41,8 +41,6 @@
     array-bracket-spacing:
       - 2
       - never
-    key-spacing:
-      - 2
     quotes:
       - 2
       - single
